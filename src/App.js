@@ -6,7 +6,6 @@ import Skills from './components/Skills';
 import Experience from './components/Experience';
 import Extracurriculars from './components/Extracurriculars';
 import Contact from './components/Contact';
-import Footer from './components/Footer';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import Typed from 'typed.js';
