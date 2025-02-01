@@ -28,7 +28,7 @@ function Experience() {
             <h3 className="experience-title">Professional Experience</h3>
             <div className="experience-item">
               <h4>Lab Assistant</h4>
-              <h5>May 2023 - Present</h5>
+              <h5>May 2023 - March 2024</h5>
               <p><em>University Of California-Riverside, Center For Environmental Research And Technology</em></p>
               <ul>
                 <li>Contributed to research projects aimed at developing more efficient and environmentally-friendly vehicle technologies.</li>
